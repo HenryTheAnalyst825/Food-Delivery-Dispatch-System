@@ -18,3 +18,6 @@ Designed an end-to-end checkout, coupon validation, and automated driver-dispatc
 ## 📂 Project Artifacts
 - **Detailed Use Case Specification:** [Insert your Notion Link here]
 - **Jira Board/Sprint Backlog:** Managed via Agile methodology (SCRUM-15, SCRUM-16, SCRUM-17).
+## 🖼️ System Diagrams & UI
+image/backlog.png
+image/board.png
