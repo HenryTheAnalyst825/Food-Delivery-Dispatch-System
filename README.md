@@ -30,5 +30,5 @@ Organized User Stories and Technical Tasks into a 2-week sprint cycle.
 
 ### 2. Kanban Board Tracking
 Visualized the development process tracking items from 'To Do' to 'Done'.
-![Jira Board](board.png)
+![Jira Board](Board.png)
 
